@@ -1,5 +1,10 @@
 # CSCI2020U Assignment
 
+## How to download 
+```
+git clone https://github.com/SchereChaSiu/CSCI2020U-Assignment.git
+```
+
 ## How to run
 
 ### Question 1 
